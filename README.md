@@ -45,6 +45,6 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p>
-<a href="https://linkedin.com/in/priyanka--deshmukh"><img src="https://img.shields.io/badge/-vivek9patel-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:priyankadeshmukh.h@gmail.com"><img src="https://img.shields.io/badge/-vivek.p9737@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://linkedin.com/in/priyanka--deshmukh"><img src="https://img.shields.io/badge/priyanka--deshmukh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:priyankadeshmukh.h@gmail.com"><img src="https://img.shields.io/badge/-priyankadeshmukh.h@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 
