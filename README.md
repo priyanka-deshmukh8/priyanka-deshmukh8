@@ -41,5 +41,4 @@
 <p>
 <a href="https://linkedin.com/in/priyanka--deshmukh"><img src="https://img.shields.io/badge/priyanka--deshmukh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:priyankadeshmukh.h@gmail.com"><img src="https://img.shields.io/badge/-priyankadeshmukh.h@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://leetcode.com/priyankadeshmukh_/"><img src="https://leetcode.com/static/webpack_bundles/images/logo-dark.e99485d9b.svg"/></a>
 
