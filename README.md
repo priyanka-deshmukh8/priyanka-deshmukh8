@@ -1,4 +1,4 @@
-![image](https://github.com/priyanka-deshmukh8/priyanka-deshmukh8/assets/120444250/326de23c-f6f4-4a6d-bd77-bf161a0906ad)<h1 align="center">Namaste! 👋, I'm Priyanka Deshmukh</h1>
+<h1 align="center">Namaste! 👋, I'm Priyanka Deshmukh</h1>
 <h3 align="center">A Passionate Developer</h3>
 	
 <p align="center">
