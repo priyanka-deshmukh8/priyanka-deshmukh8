@@ -1,4 +1,4 @@
-<h1 align="center">Namaste! 👋, I'm Priyanka Deshmukh</h1>
+![image](https://github.com/priyanka-deshmukh8/priyanka-deshmukh8/assets/120444250/326de23c-f6f4-4a6d-bd77-bf161a0906ad)<h1 align="center">Namaste! 👋, I'm Priyanka Deshmukh</h1>
 <h3 align="center">A Passionate Developer</h3>
 	
 <p align="center">
@@ -41,4 +41,5 @@
 <p>
 <a href="https://linkedin.com/in/priyanka--deshmukh"><img src="https://img.shields.io/badge/priyanka--deshmukh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:priyankadeshmukh.h@gmail.com"><img src="https://img.shields.io/badge/-priyankadeshmukh.h@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://leetcode.com/priyankadeshmukh_/"><img src="https://leetcode.com/static/webpack_bundles/images/logo-dark.e99485d9b.svg"/></a>
 
