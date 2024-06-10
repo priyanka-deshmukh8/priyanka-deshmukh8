@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=priyanka-deshmukh8&color=blueviolet&style=flat">
 </p>
 
-- 💬 Ask me about **AWS, Full Stack Development,** **AI,** **ML,** **Data Science** & **C++**
+- 💬 Ask me about **Full Stack Development,** **AI,** **ML,** **Data Science** & **C++**
 
 - 📫 How to reach me **priyankadeshmukh.h@gmail.com**
 
