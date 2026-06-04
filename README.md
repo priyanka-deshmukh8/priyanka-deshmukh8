@@ -1,40 +1,79 @@
 <h1 align="center">Namaste! 👋, I'm Priyanka Deshmukh</h1>
-<h3 align="center">A Passionate Developer</h3>
-	
+<h3 align="center">Associate Software Engineer | Full Stack Developer | Competitive Programmer</h3>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=priyanka-deshmukh8&color=blueviolet&style=flat">
 </p>
 
-- 💬 Ask me about **Full Stack Development,** **AI,** **ML,** **Data Science** & **C++**
+### 🚀 About Me
 
-- 📫 How to reach me **priyankadeshmukh.h@gmail.com**
+- 💼 Associate Software Engineer at Accenture
+- 🌱 Building scalable web applications, real-time systems, and AI-powered products
+- ⚡ Experienced in React, Next.js, TypeScript, Node.js, React Native, Firebase, and Azure
+- 🏆 ICPC Regionals 2024 Onsite Qualifier (Rank 198)
+- 💻 LeetCode Knight (Peak Rating: 1860+)
+- 🤖 Exploring AI Agents, LLM Integrations, MCP, and Automation Workflows
+- 📫 Reach me at **priyankad.exe@gmail.com**
 
+---
 
-	
-### 🛠 &nbsp;Languages and Tools
+### 🛠 Languages & Technologies
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](http://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=ffffff)
-![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=for-the-badge&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=for-the-badge&logo=css3)
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=ffffff)
+#### Languages
+
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1C?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge)
+
+#### Frontend
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=ffffff)
-![Git](https://img.shields.io/badge/-Git-%23F05032?style=for-the-badge&logo=git&logoColor=%23ffffff)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=ffffff)
-![npm](https://img.shields.io/badge/-npm-CB3837?style=for-the-badge&logo=npm)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=ffffff)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Linux](http://img.shields.io/badge/-Linux-0078D6?style=for-the-badge&logo=linux&logoColor=ffffff)
-![Blockchain](https://img.shields.io/badge/Blockchain-121D33?style=for-the-badge&logo=Blockchain.com&logoColor=white)
 
-<br/>
+#### Backend & Databases
 
-### 🤝🏻 &nbsp;Connect with Me
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge)
 
-<p>
-<a href="https://linkedin.com/in/priyanka--deshmukh"><img src="https://img.shields.io/badge/priyanka--deshmukh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:priyankadeshmukh.h@gmail.com"><img src="https://img.shields.io/badge/-priyankadeshmukh.h@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+#### Cloud & DevOps
 
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+### 🌟 Featured Projects
+
+#### 🔹 Barter
+
+A real-time skill exchange platform featuring:
+
+- Intelligent skill matching
+- WebSocket-based notifications
+- AI-powered chatbot recommendations
+- Firebase Authentication
+- Next.js & Node.js architecture
+
+#### 🔹 bit0git
+
+An open-source contribution platform helping students:
+
+- Discover beginner-friendly repositories
+- Find suitable issues
+- Learn open-source development
+- Built with Next.js, TypeScript, and Tailwind CSS
+
+---
+
+
+- 🥇 ICPC Regionalist 2024 
+- ⚔️LeetCode Knight with a Peak Rating of 1860+
