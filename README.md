@@ -51,29 +51,3 @@
 
 ---
 
-### 🌟 Featured Projects
-
-#### 🔹 Barter
-
-A real-time skill exchange platform featuring:
-
-- Intelligent skill matching
-- WebSocket-based notifications
-- AI-powered chatbot recommendations
-- Firebase Authentication
-- Next.js & Node.js architecture
-
-#### 🔹 bit0git
-
-An open-source contribution platform helping students:
-
-- Discover beginner-friendly repositories
-- Find suitable issues
-- Learn open-source development
-- Built with Next.js, TypeScript, and Tailwind CSS
-
----
-
-
-- 🥇 ICPC Regionalist 2024 
-- ⚔️LeetCode Knight with a Peak Rating of 1860+
