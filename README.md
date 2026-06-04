@@ -7,13 +7,12 @@
 
 ### 🚀 About Me
 
-- 💼 Associate Software Engineer at Accenture
 - 🌱 Building scalable web applications, real-time systems, and AI-powered products
 - ⚡ Experienced in React, Next.js, TypeScript, Node.js, React Native, Firebase, and Azure
-- 🏆 ICPC Regionals 2024 Onsite Qualifier (Rank 198)
+- 🏆 ICPC Regionals 2024 Onsite Qualifier
 - 💻 LeetCode Knight (Peak Rating: 1860+)
 - 🤖 Exploring AI Agents, LLM Integrations, MCP, and Automation Workflows
-- 📫 Reach me at **priyankad.exe@gmail.com**
+- 📫 Reach me at **priyankadeshmukh.hgmail.com**
 
 ---
 
