@@ -1,5 +1,5 @@
 <h1 align="center">Namaste! 👋, I'm Priyanka Deshmukh</h1>
-<h3 align="center">A Passionate Developer</h3>
+<h3 align="center">Building Software That Solves Real Problems</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=priyanka-deshmukh8&color=blueviolet&style=flat">
