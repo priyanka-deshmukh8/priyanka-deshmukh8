@@ -3,7 +3,7 @@
 ### Java Backend Developer | Building Scalable & Reliable Backend Systems
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=priyanka-deshmukh8&color=blueviolet&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=priyanka-deshmukh8&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views" />
 </p>
 
 ## 🚀 About Me
