@@ -21,7 +21,7 @@
 ```java
 public class Priyanka {
 
-    String role = "Java Backend Developer";
+    String role = "Software  Developer";
     String[] interests = {
         "Backend Engineering",
         "System Design",
