@@ -1,7 +1,7 @@
 # 👋 Namaste, I'm Priyanka Deshmukh!
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=23&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Software+Developer+%F0%9F%9A%80;Building+Scalable+Backend+Systems;Problem+Solver;Exploring+AI+%26+Intelligent+Automation" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=23&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Python+Backend+Developer+%F0%9F%90%8D;Building+Scalable+Backend+Systems;Designing+Reliable+REST+APIs;Exploring+Distributed+Systems+%26+AI" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -11,72 +11,84 @@
 </p>
 
 <p align="center">
-  <i>Turning complex problems into elegant, scalable software.</i>
+  <i>Building reliable, scalable, and maintainable backend systems with Python.</i>
 </p>
 
 ---
 
-## 💫 A Little About Me
+## 💫 About Me
 
-```java
-public class Priyanka {
+```python
+class Priyanka:
+    def __init__(self):
+        self.role = "Software Engineer"
+        self.interests = [
+            "Backend Engineering & Data Engineering",
+            "Distributed Systems",
+            "System Design",
+            "Competitive Programming",
+            "AI & Automation",
+        ]
+        self.mindset = "Learn. Build. Optimize. Repeat."
 
-    String role = "Software  Developer";
-    String[] interests = {
-        "Backend Engineering",
-        "System Design",
-        "Competitive Programming",
-        "AI & Automation"
-    };
+    def build(self):
+        return "Engineering software that scales 🚀"
 
-    String mindset = "Learn. Build. Optimize. Repeat.";
 
-    void build() {
-        System.out.println("Building software that matters 🚀");
-    }
-}
+me = Priyanka()
 ```
 
-- 🚀 Exploring **Java, Python, Spring Boot, REST APIs, and microservices**
-- 🏗️ Interested in scalable architectures, distributed systems, and database optimization
+- 🐍 Focused on **backend development** and scalable application services
+- 🚀 Exploring **FastAPI, Django, REST APIs, and microservices**
+- 🗄️ Interested in database design, PostgreSQL, Redis, and asynchronous processing
+- 🏗️ Learning distributed systems, system design, and backend architecture
 - 🏆 **ICPC Regionals 2024 Onsite Qualifier**
 - ⚔️ **LeetCode Knight** — Peak Rating: 1860+
-- ☁️ Working with cloud technologies, Azure, data engineering, and automation
-- 🤖 Exploring LLM integrations, AI agents, and intelligent workflows
-- 🎯 Focused on becoming a stronger backend engineer through consistent building and problem-solving
-- 📫 Email: **priyankad.exe@example.com**
+- ☁️ Working with Azure data engineering, and automation
+- 🤖 Exploring AI integrations, LLM-powered applications, and intelligent workflows
+- 🎯 Building production-oriented backend projects for product-based software engineering roles
+
+📫 Email: **priyankad.exe@example.com**
 
 ---
 
 ## ⚡ Tech Arsenal
 
-### 💻 Languages
 
 <p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
 </p>
 
-### ⚙️ Backend Engineering
+
 
 <p>
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Framework" />
-  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" alt="Hibernate" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
   <img src="https://img.shields.io/badge/REST_APIs-6C63FF?style=for-the-badge" alt="REST APIs" />
-  <img src="https://img.shields.io/badge/Microservices-1572B6?style=for-the-badge" alt="Microservices" />
+  <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge" alt="SQLAlchemy" />
+  <img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge" alt="Pydantic" />
 </p>
 
-### 🗄️ Databases & Messaging
+### 🗄️ Databases, Caching & Messaging
 
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Apache Kafka" />
+</p>
+
+### 🧪 Testing & Backend Quality
+
+<p>
+  <img src="https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" alt="pytest" />
+  <img src="https://img.shields.io/badge/Unit_Testing-6C63FF?style=for-the-badge" alt="Unit Testing" />
+  <img src="https://img.shields.io/badge/OpenAPI-6BA539?style=for-the-badge&logo=openapiinitiative&logoColor=white" alt="OpenAPI" />
 </p>
 
 ### ☁️ Cloud, DevOps & Tools
@@ -89,9 +101,9 @@ public class Priyanka {
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 </p>
 
-### 🧠 Core Computer Science
+### 🧠 Core Computer Science & Architecture
 
-`Data Structures & Algorithms` · `OOP` · `SOLID Principles` · `SQL` · `Concurrency` · `System Design` · `Design Patterns`
+`Data Structures & Algorithms` · `OOP` · `SOLID Principles` · `Design Patterns` · `System Design` · `Microservices` · `Concurrency` · `Database Optimization` · `Distributed Systems`
 
 ---
 
@@ -105,8 +117,7 @@ public class Priyanka {
   <img src="https://img.shields.io/badge/ICPC-2024_Regional_Onsite_Qualifier-2563eb?style=for-the-badge" alt="ICPC Regional Onsite Qualifier" />
 </p>
 
-I enjoy solving algorithmic challenges, breaking down complex problems, and improving the efficiency of my solutions.
-
+I enjoy solving challenging algorithmic problems, analyzing time and space complexity, and developing efficient solutions. I apply the same problem-solving mindset to backend engineering, performance optimization, and system design.
 ---
 
 ## 📊 GitHub Dashboard
@@ -119,17 +130,6 @@ I enjoy solving algorithmic challenges, breaking down complex problems, and impr
 <p align="center">
   <img width="95%" src="https://streak-stats.demolab.com?user=priyanka-deshmukh8&hide_border=true&background=0D1117&ring=A78BFA&fire=FB923C&currStreakLabel=A78BFA&sideLabels=C9D1D9&dates=8B949E" alt="GitHub Contribution Streak" />
 </p>
-
----
-
-## 🌱 What I'm Building Towards
-
-- ☕ Writing clean, maintainable Java applications with Spring Boot
-- 🔐 Building secure APIs with authentication and authorization
-- 🏛️ Designing reliable backend systems and learning system design
-- 🧪 Improving code quality through testing and clean architecture
-- ⚡ Practicing DSA for challenging software engineering interviews
-- 🤖 Integrating AI capabilities into practical software products
 
 ---
 
@@ -147,5 +147,5 @@ I enjoy solving algorithmic challenges, breaking down complex problems, and impr
 <p align="center">
   <i>"Great software isn't just written. It's engineered."</i>
   <br /><br />
-  <b>⭐ Build with purpose. Solve with logic. Scale with design.</b>
+  <b>⭐ Build with purpose. Solve with logic. Scale with Python.</b>
 </p>
