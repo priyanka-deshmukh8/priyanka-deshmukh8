@@ -1,7 +1,7 @@
 # 👋 Namaste, I'm Priyanka Deshmukh!
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=23&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Python+Backend+Developer+%F0%9F%90%8D;Building+Scalable+Backend+Systems;Designing+Reliable+REST+APIs;Exploring+Distributed+Systems+%26+AI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=23&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Software+Developer+%F0%9F%90%8D;Building+Scalable+Backend+Systems;Designing+Reliable+REST+APIs;Exploring+Distributed+Systems+%26+AI" alt="Typing SVG" />
 </p>
 
 <p align="center">
